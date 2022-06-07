@@ -142,6 +142,10 @@ Para isso, temos o script [gerador_de_execucoes](./proj/pipeline/gerador_de_exec
 ```bash
 proj/pipeline/gerador_de_execucoes.sh
 ```
+Caso seja a primeira vez que será executado será necessário rodar o seguinte comandoÇ
+```bash
+chmod +x proj/pipeline/gerador_de_execucoes.sh 
+```
 
 ## Instalação do Grafana
 
